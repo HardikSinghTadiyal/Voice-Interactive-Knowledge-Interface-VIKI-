@@ -1,4 +1,4 @@
-# Voice-Interactive-Knowledge-Interface-(VIKI)-
+# Voice Interactive Knowledge Interface (VIKI)
 
 
 
