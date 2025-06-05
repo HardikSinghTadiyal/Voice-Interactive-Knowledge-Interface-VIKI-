@@ -40,7 +40,7 @@ Viki is a versatile voice assistant built with Python, featuring speech recognit
 # How to install 
 ## 1. Insatll Python Latest Verson 
 ## 2. After installing python. Open command prompt and type following commands
-* pip isntall pyttsx3
+* pip install pyttsx3
 * pip install SpeechRecognition
 * pip install pyttsx3 SpeechRecognition openai wikipedia requests beautifulsoup4 opencv-python Pillow customtkinter
 
