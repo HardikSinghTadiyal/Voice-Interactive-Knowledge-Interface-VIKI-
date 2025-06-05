@@ -1,8 +1,6 @@
 # Voice-Interactive-Knowledge-Interface-(VIKI)-
 
-* Voice Interactive: Directly refers to the core method of interaction with the assistant – through voice commands and spoken responses.
-* Knowledge: Emphasizes its ability to access and provide information, whether from Wikipedia, web searches, or potentially through an integrated AI.
-* Interface: Highlights its role as a user-friendly system that allows interaction with a computer and various services.
+
 
 Viki is a versatile voice assistant built with Python, featuring speech recognition, text-to-speech capabilities, integration with OpenAI , web Browse, application launching, and a dynamic graphical user interface. Users can interact with Viki through voice commands or by typing, manage custom application mappings, and even use webcam functionalities for recording and photo capture.
 
@@ -54,3 +52,6 @@ Viki is a versatile voice assistant built with Python, featuring speech recognit
 
 
 
+###  Voice Interactive: Directly refers to the core method of interaction with the assistant – through voice commands and spoken responses.
+###  Knowledge: Emphasizes its ability to access and provide information, whether from Wikipedia, web searches, or potentially through an integrated AI.
+###  Interface: Highlights its role as a user-friendly system that allows interaction with a computer and various services.
