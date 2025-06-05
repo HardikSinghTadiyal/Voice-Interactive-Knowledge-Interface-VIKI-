@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+openai
+wikipedia
+requests
+beautifulsoup4
+opencv-python
+Pillow
+customtkinter
