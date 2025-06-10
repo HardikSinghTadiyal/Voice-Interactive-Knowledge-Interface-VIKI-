@@ -44,6 +44,7 @@ Viki is a versatile voice assistant built with Python, featuring speech recognit
 * pip install pyttsx3 SpeechRecognition openai wikipedia requests beautifulsoup4 opencv-python Pillow customtkinter
 
      ### This command will install all the modules listed in your requirements.txt.txt file. ###
+## 3. Past jarvis file in "C:\Windows\System32"
 ## Important Notes:
 * Internet Connection: You need an active internet connection for pip to download the modules.
 * Virtual Environments: For project-specific dependencies, it's best practice to use a virtual environment. This prevents conflicts between different projects. If you're using a virtual environment, make sure it's activated before running pip install.
